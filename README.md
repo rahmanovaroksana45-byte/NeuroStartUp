@@ -1,3 +1,3 @@
-# Hello, World!
+# Hello, all!
 
-12.07.2026# NeuroStartUp Project
+12.07.2026
